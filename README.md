@@ -1,2 +1,4 @@
 # brad-blender-repo
-Here it is
+
+## Install
+just go into blender extentions and click add extention and pick the extention
